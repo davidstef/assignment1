@@ -74,9 +74,3 @@ function searchID(ID) {
     ID = req.url.split("/")[2];
     return ID;
 }
-
-
-
-
-
-
